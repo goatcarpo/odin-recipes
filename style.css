@@ -1,0 +1,17 @@
+h1 {
+    color:beige;
+    background-color: darkslategrey;
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+}
+
+ul {
+    background-color: #e5f29b;
+    border-radius: 11px;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
