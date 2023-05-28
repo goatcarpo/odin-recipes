@@ -1,3 +1,3 @@
-First porject # odin-recipes
+First project # odin-recipes
 
-Create ugly looking website for quick recipe overview. Use links and images. Moving around web pages without problem
+Create website for quick favorite recipe overview. Use links and images
